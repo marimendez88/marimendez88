@@ -13,7 +13,7 @@
 ![JavaScript](https://img.shields.io/badge/-javascript-333333?style=for-the-badge&logo=javascript)&nbsp;
 ![Angular](https://img.shields.io/badge/-angular-333333?style=for-the-badge&logo=angular)&nbsp;
 ![React](https://img.shields.io/badge/-react-333333?style=for-the-badge&logo=react)&nbsp;
-![Firebase}(https://img.shields.io/badge/-firebase-333333?style=for-the-badge&logo=FIREBASE)&nbsp;
+![Firebase](https://img.shields.io/badge/-firebase-333333?style=for-the-badge&logo=FIREBASE)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=for-the-badge&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logoColor=1572B6)&nbsp;
