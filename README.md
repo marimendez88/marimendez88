@@ -1,12 +1,12 @@
 ### Hi there! 👋  I'm Maria Jose
 
-- 🔭 I’m currently working in Angular - React - Vue - ionic Projects.
+- 🔭 I’m currently working in Angular - React - Vue - Ionic Projects.
 - 🌱 I’m currently learning Artificial Intelligence and Machine Learning...
 - 👯 I’m looking to collaborate on more in the Angular-ionic-react community...
-- 💬 Ask me about something cool...
-- 📫 How to reach me: https://www.mtekh.com/ 
+- 💬 Ask me about something cool..
+- 📫 How to reach me: ping me a DM at @marimendez88 (Twitter)
 - 😄 Pronouns: She/Her ...
-- ⚡ Fun fact:  I'm vegan 🌱, CrossFiter, Runner and Biker... and not, WE DON'T NEED MEAT. 
+- ⚡ More about me: I don't eat animals 🌱 CrossFiter - Trail Runner and I am obsess with The Flash ⚡
 
 ### 🛠 &nbsp;Tech Stack
 ![Ionic](https://img.shields.io/badge/-Ionic-333333?style=for-the-badge&logo=ionic)&nbsp;
