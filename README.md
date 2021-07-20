@@ -1,12 +1,25 @@
-### Hi there! 👋  I'm Maria Jose
+### Hi there! 👋  I'm Maria Jose and these are my stats:
+
+
+[![MJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=marimendez88&count_private=true&show_icons=true)](https://github.com/marimendez88/marimendez88)
+
+
 
 - 🔭 I’m currently working in Angular - React - Vue - Ionic Projects.
 - 🌱 I’m currently learning Artificial Intelligence and Machine Learning...
 - 👯 I’m looking to collaborate on more in the Angular-ionic-react community...
 - 💬 Ask me about something cool..
 - 📫 How to reach me: ping me a DM at @marimendez88 (Twitter)
+- I do write blogs at: [marimendez88.com / marimendez88.dev](https://www.marimendez88.com/)
 - 😄 Pronouns: She/Her ...
 - ⚡ More about me: I don't eat animals 🌱 CrossFiter - Trail Runner and I am obsess with The Flash ⚡
+
+
+[![MJ's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marimendez88&layout=compact)](https://github.com/marimendez88/marimendez88)
+
+
+
+
 
 ### 🛠 &nbsp;Tech Stack
 ![Ionic](https://img.shields.io/badge/-Ionic-333333?style=for-the-badge&logo=ionic)&nbsp;
