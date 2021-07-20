@@ -7,12 +7,11 @@
 
 - 🔭 I’m currently working in Angular - React - Vue - Ionic Projects.
 - 🌱 I’m currently learning Artificial Intelligence and Machine Learning...
-- 👯 I’m looking to collaborate on more in the Angular-ionic-react community...
-- 💬 Ask me about something cool..
-- 📫 How to reach me: ping me a DM at @marimendez88 (Twitter)
-- I do write blogs at: [marimendez88.com / marimendez88.dev](https://www.marimendez88.com/)
+- 👯 I’m looking to collaborate on more in the Web community...
+- 📫 How to reach me: ping me a DM at [@marimendez88](https://twitter.com/marimendez88)
+- 💬 I do write blogs at: [marimendez88.com / marimendez88.dev](https://www.marimendez88.com/)
 - 😄 Pronouns: She/Her ...
-- ⚡ More about me: I don't eat animals 🌱 CrossFiter - Trail Runner and I am obsess with The Flash ⚡
+- ⚡ More about me: I don't eat animals 🌱 , I do CrossFit - Trail Running, Rock Climbing and I am obsess with The Flash ⚡
 
 
 [![MJ's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marimendez88&layout=compact)](https://github.com/marimendez88/marimendez88)
