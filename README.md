@@ -5,8 +5,8 @@
 
 
 
-- 🔭 I’m currently working in Angular - React - Vue - Ionic Projects.
-- 🌱 I’m currently learning Artificial Intelligence and Machine Learning...
+- 🔭 I’m currently working with Ruby, Pearl, Kubernetes, AWS and Oracle Databases. 
+- 🌱 I love to code in  Angular - React - Vue - Ionic in my spare time
 - 👯 I’m looking to collaborate on more in the Web community...
 - 📫 How to reach me: ping me a DM at [@marimendez88](https://twitter.com/marimendez88)
 - 💬 I do write blogs at: [marimendez88.com / marimendez88.dev](https://www.marimendez88.com/)
